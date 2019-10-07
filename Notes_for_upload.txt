@@ -1,0 +1,3 @@
+Hi there,
+these are test notes for upload from folder to git repo in web.
+Thanks
